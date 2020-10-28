@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Donald Sengompe",
+    "occupation": "Self taught filmmaker,photographer and graphic designer",
+    "description": "Director| Film Maker | Content Creator |",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Donald, I'm a filmmaker,photographer and graphic designer. Currently I'm working at Sladefx ",
+    "contactmessage": "Get in touch with me to receive further details, book a shoot or anything else.",
+    "email": "sladefx74@gmail.com",
+    "phone": "+267 77 950 805",
+    "address": {
+      "street": "Tsholofelo East",
+      "city": "Gaborone ",
+      "state": "BW"
+    },
+    "website": "http://www.sladefx.com",
+    "resumedownload": "http://sladefx.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/SladefxPtyLtd",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_sladefx_official/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ImDonaldSlade",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Driven by instinct.",
+    "education": [
+      {
+        "school": "University of Kent",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sladefx",
+        "title": "Team Member && Media Specialist",
+        "years": "November 2016 - Present",
+        "description": "Director| Film Maker | Content Creator"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Adobe Photoshop",
+        "level": "100%"
+      },
+      {
+        "name": "Adobe Premier Pro",
+        "level": "95%"
+      },
+      {
+        "name": "Graphic Design",
+        "level": "90%"
+      },
+      {
+        "name": "Cinematography",
+        "level": "90%"
+      },
+      {
+        "name": "Photography",
+        "level": "90%"
+      },
+      {
+        "name": "Video Editing ",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TSS Ft. Sal Angel & DINTLEONTHETRACK- Lorato (Official Music Video) Directed By Donald Slade",
+        "category": "Music Video",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=e-bDjqZPkGQ"
+      },
+      {
+        "title": "TSS-Headlines Intro Prod. DintleOnTheTrack (official Music Video) Directed By Donald Slade",
+        "category": "Music Video",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=wSuWawrpGqM"
+      },
+      {
+        "title": "Jack Monster- Loyalty ( official Music Video ) Directed By Donald Slade",
+        "category": "Music Video",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=-MBO8iauWXw"
+      },
+      {
+        "title": "Richard Dollar ft Dunkey & KB Frezh - Bari (Official Music Video) Directed By Donald Slade",
+        "category": "Music Video",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=Y3vSySZ4Rn0"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Coming Soon",
+        "user": "Sladefx"
+      },
+      {
+        "text": "Coming Soon",
+        "user": "Sladefx"
+      }
+    ]
+  }
+}
